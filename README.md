@@ -1,1 +1,1 @@
-# MangaToPDF
+# MangaToPDF downloader
